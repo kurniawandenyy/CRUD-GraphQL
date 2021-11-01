@@ -1,0 +1,1 @@
+# Simple GraphQL API (ExpressJS + MySQL + Sequelize)
